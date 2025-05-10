@@ -2,8 +2,6 @@
 
 This repository presents a **comprehensive, enterprise-grade HR analytics solution** developed in Power BI, leveraging advanced DAX, robust data modeling, and dynamic visuals. The project addresses real-world challenges in employee attrition, performance evaluation, diversity equity & inclusion (DEI), and strategic workforce planning.
 
-> This is more than a dashboard — it's an end-to-end analytical system that demonstrates the kind of impactful, data-driven storytelling that Fortune 500 HR departments rely on.
-
 ---
 
 ## 🚀 Project Overview
