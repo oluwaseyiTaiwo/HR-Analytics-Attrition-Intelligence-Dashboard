@@ -110,15 +110,15 @@ Used Power BI’s capabilities to produce a **compelling executive-level dashboa
 Screenshots will be included in the `/screenshots` folder:
 
 * `overview_dashboard.png`: High-level summary with attrition and department-level KPIs
-![Data Model](screenshots/overview.png.png)
+![overview_dashboard](screenshots/overview.png)
 * `demographic_view.png`: Breakdown of employee demographics by age, ethnicity, gender, and salary
-![Data Model](screenshots/DemoGraphic.png.png)
+![demographic_view](screenshots/DemoGraphic.png)
 * `performance_tracker.png`: Tracker for individual employee ratings and satisfaction over time
-![Data Model](screenshots/Performance%20Tracker.png.png)
+![performance_tracker](screenshots/Performance%20Tracker.png)
 * `attrition_insights.png`: Detailed attrition trends by business travel, role, and department
-![Data Model](screenshots/Attrition%20Rate.png.png)
+![attrition_insights](screenshots/Attrition%20Rate.png)
 * `data_model_schema.png`: Power BI relationship diagram (model view)
-![Data Model](screenshots/Model.png.png)
+![data_model_schema](screenshots/Model.png)
 
 Each screenshot highlights key design choices and interaction flows built into the report.
 
